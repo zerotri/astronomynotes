@@ -1,0 +1,32 @@
+# Wednesday 9 February 2011
+_____
+
+### Objectives:
+1.	List the 7 members of the EM spectrum in order of
+	increasing energy (cont.)
+1.	Define a "wave", "wavelength" & "frequency"
+1.	Define a "photon"
+1.	Discuss 3 properties of EMR, or waves (reflection,
+	refraction, diffraction) and cite an example of each.
+
+### Properties of EMR
+*	Refraction  
+	![Refraction](content/refraction.png)
+*	Reflection  
+	![Reflection & Diffraction](content/reflection-diffraction.png)
+*	Diffraction  
+	EMR bending around corners or edges.
+
+#### Light
+White Light - Light containing all of visible colors  
+Spectrum - a dispersed ray of EMR  
+![Light -> Prism -> Spectrum](content/spectrum-prism.png)
+##### 3 types of spectra
+1.	Continuous Spectrum (white light)  
+	All visible colors - no breaks; obtained from white light. White light is emitted from a _dense_ solid, liquid or gas.
+1.	Bright Line (Emission) Spectrum  
+	Obtained when you disperse the light from a hot, thin gas.
+1.	Dark Line (Absorbtion) Spectrum
+
+##### How does a rainbow work?
+1.	Water refracts in a water drop and disperses, then reflects back to us, creating a visible spectrum.
