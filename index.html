@@ -1,1 +1,5 @@
 My Github Page
+
+{% for post in site.posts limit:5 %}
+	<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
